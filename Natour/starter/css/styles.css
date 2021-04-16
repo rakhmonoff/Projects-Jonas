@@ -30,7 +30,4 @@ body {
       rgba(40, 180, 133, 0.8)
     ),
     url(/img/hero.jpg);
-  background-size: cover;
-  background-position: top;
-  clip-path: polygon(100% 0, 50% 0, 100% 0, 100% 0);
 }
